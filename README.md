@@ -85,7 +85,7 @@ Este projeto é um sistema de console completo para gerenciamento de animais de 
 ### 📫 Conecte-se Comigo
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/](https://www.linkedin.com/in/victoria-carvalho11/)" target="blank">
+  <a href="https://www.linkedin.com/in/victoria-carvalho11/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" />
   </a>
   </p>
