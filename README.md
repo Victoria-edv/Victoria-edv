@@ -59,7 +59,7 @@ Este projeto é um sistema de console completo para gerenciamento de animais de 
 
 **Tecnologias:** Java 11+, Programação Orientada a Objetos (POO), Java I/O e API de Data/Hora.
 
-*🔗 [Link para o repositório]((https://github.com/Victoria-edv/Sistema-de-Cadastros-de-Animais.git)) *
+*🔗 [Link para o repositório](https://github.com/Victoria-edv/Sistema-de-Cadastros-de-Animais.git) *
 
 ---
 
