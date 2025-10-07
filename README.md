@@ -65,7 +65,7 @@ Este projeto é um sistema de console completo para gerenciamento de animais de 
 
 ### 📚 Formação e Certificações
 
-- **Oracle Cloud Infrastructure Foundations** - **Em preparação**
+- **Oracle Cloud Infrastructure Foundations** - *Em preparação*
 - **Análise e Desenvolvimento de Sistemas** - Unicesumar (2027)
 - **Programa Jovem Tech** - Focado em Desenvolvimento de Sistemas, Programação e Empreendedorismo.
 
