@@ -67,7 +67,7 @@ Este projeto é um sistema de console completo para gerenciamento de animais de 
 
 - **Oracle Cloud Infrastructure Foundations** - *Em preparação*
 - **Análise e Desenvolvimento de Sistemas** - Unicesumar (2027)
-- **Programa Jovem Tech** - Focado em Desenvolvimento de Sistemas, Programação e Empreendedorismo.
+- **Programa Jovem Tech** - Qualificação em desenvolvimento de software, lógica de programação e habilidades essenciais para atuação profissional no setor de tecnologia.
 
 ---
 
