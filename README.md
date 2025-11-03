@@ -1,27 +1,3 @@
-Victoria, recebi o código completo do seu `README.md` novamente.
-
-O problema de formatação na seção **Tecnologias e Ferramentas** (onde os "Conceitos" estavam grudados nos ícones) ocorre porque o código que você copiou do seu lado possui um erro no fechamento das *tags* de parágrafo (`<p>`).
-
-Veja no seu código enviado:
-
-```markdown
-...
-  </a>
-  
-  <br>
-  **Conceitos:** Programação Orientada a Objetos (POO), CRUD, File I/O, Estruturas de Dados.
-</p>
-</p>  <-- AQUI ESTÁ O ERRO
-...
-```
-
-Existe um fechamento extra (`</p>`) que pode bagunçar a renderização.
-
-**Eu removi o fechamento extra no código abaixo para garantir que a renderização fique perfeita.**
-
-### ✅ **Seu README.md Final e Corrigido (Sem Erros de Tag)**
-
-```markdown
 # Olá, eu sou a Victoria Carvalho! 👋
 
 <p align="left">
