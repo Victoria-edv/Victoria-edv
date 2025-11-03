@@ -94,9 +94,9 @@ Criação de um site responsivo para um pequeno negócio, aplicando fundamentos 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/victoria-carvalho11/" target="_blank" rel="external">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:victoriacarvalho.edv@gmail.com" target="_blank" rel="external">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="E-mail" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="E-mail" height="30" width="40" />
   </a>
 </p>
