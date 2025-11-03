@@ -1,3 +1,27 @@
+Victoria, recebi o código completo do seu `README.md` novamente.
+
+O problema de formatação na seção **Tecnologias e Ferramentas** (onde os "Conceitos" estavam grudados nos ícones) ocorre porque o código que você copiou do seu lado possui um erro no fechamento das *tags* de parágrafo (`<p>`).
+
+Veja no seu código enviado:
+
+```markdown
+...
+  </a>
+  
+  <br>
+  **Conceitos:** Programação Orientada a Objetos (POO), CRUD, File I/O, Estruturas de Dados.
+</p>
+</p>  <-- AQUI ESTÁ O ERRO
+...
+```
+
+Existe um fechamento extra (`</p>`) que pode bagunçar a renderização.
+
+**Eu removi o fechamento extra no código abaixo para garantir que a renderização fique perfeita.**
+
+### ✅ **Seu README.md Final e Corrigido (Sem Erros de Tag)**
+
+```markdown
 # Olá, eu sou a Victoria Carvalho! 👋
 
 <p align="left">
@@ -34,7 +58,7 @@ Sou certificada **Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations A
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -42,9 +66,9 @@ Sou certificada **Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations A
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  
-  <br>
-  **Conceitos:** Programação Orientada a Objetos (POO), CRUD, File I/O, Estruturas de Dados.
+  
+  <br>
+  **Conceitos:** Programação Orientada a Objetos (POO), CRUD, File I/O, Estruturas de Dados.
 </p>
 
 ---
@@ -57,7 +81,7 @@ Sou certificada **Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations A
 Este projeto é um sistema de linha de comando (CLI) completo para gerenciamento de animais de estimação. Foco na aplicação prática de **Java 11+** e **POO** para construir uma estrutura sólida.
 </p>
 **Conquistas:** Implementação de **CRUD Completo**, manipulação segura de arquivos (`File I/O`) para persistência de dados e uso de **Tratamento de Exceções** para robustez.
-*🔗 [Link para o repositório](https://github.com/Victoria-edv/Sistema-de-Cadastros-de-Animais)*
+*🔗 Link para o repositório(https://github.com/Victoria-edv/Sistema-de-Cadastros-de-Animais.git)*
 
 #### 2. Site Institucional - Claudinha Lembranças (Front-end)
 
@@ -65,7 +89,7 @@ Este projeto é um sistema de linha de comando (CLI) completo para gerenciamento
 Criação de um site responsivo para pequeno negócio, aplicando fundamentos de desenvolvimento web, **HTML5, CSS3** e **JavaScript (ES6)**.
 </p>
 **Conquistas:** Desenvolvimento de galeria de produtos com filtro de busca dinâmico e formulário de contato funcional, simulando **integração com API**. Uso de **Git/GitHub** para versionamento.
-*🔗 [Link para o repositório](https://github.com/Victoria-edv/site-claudinha-lembrancas)*
+*🔗 Link para o repositório (https://github.com/Victoria-edv/site-claudinha-lembrancas.git)*
 
 ---
 
