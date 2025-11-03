@@ -42,7 +42,7 @@ Sou certificada **Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations A
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  
+  
   <br>
   **Conceitos:** Programação Orientada a Objetos (POO), CRUD, File I/O, Estruturas de Dados.
 </p>
@@ -57,7 +57,7 @@ Sou certificada **Oracle Cloud Infrastructure (OCI) 2025 Certified Foundations A
 Este projeto é um sistema de linha de comando (CLI) completo para gerenciamento de animais de estimação. Foco na aplicação prática de **Java 11+** e **POO** para construir uma estrutura sólida.
 </p>
 **Conquistas:** Implementação de **CRUD Completo**, manipulação segura de arquivos (`File I/O`) para persistência de dados e uso de **Tratamento de Exceções** para robustez.
-*🔗 Link para o repositório(https://github.com/Victoria-edv/Sistema-de-Cadastros-de-Animais.git)*
+*🔗 [Link para o repositório](https://github.com/Victoria-edv/Sistema-de-Cadastros-de-Animais)*
 
 #### 2. Site Institucional - Claudinha Lembranças (Front-end)
 
@@ -65,7 +65,7 @@ Este projeto é um sistema de linha de comando (CLI) completo para gerenciamento
 Criação de um site responsivo para pequeno negócio, aplicando fundamentos de desenvolvimento web, **HTML5, CSS3** e **JavaScript (ES6)**.
 </p>
 **Conquistas:** Desenvolvimento de galeria de produtos com filtro de busca dinâmico e formulário de contato funcional, simulando **integração com API**. Uso de **Git/GitHub** para versionamento.
-*🔗 Link para o repositório (https://github.com/Victoria-edv/site-claudinha-lembrancas.git)*
+*🔗 [Link para o repositório](https://github.com/Victoria-edv/site-claudinha-lembrancas)*
 
 ---
 
@@ -92,9 +92,11 @@ Criação de um site responsivo para pequeno negócio, aplicando fundamentos de 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/victoria-carvalho11/" target="_blank" rel="external">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:victoriacarvalho.edv@gmail.com" target="_blank" rel="external">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="seu-email" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="E-mail" height="30" width="40" />
   </a>
 </p>
+
+---
