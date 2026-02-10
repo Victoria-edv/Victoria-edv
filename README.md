@@ -79,17 +79,6 @@ Criação de um site responsivo para um pequeno negócio, aplicando fundamentos 
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/Victoria-edv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victoria-edv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoria-edv&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
-
----
-
 ### 📫 Conecte-se Comigo
 
 <p align="left">
